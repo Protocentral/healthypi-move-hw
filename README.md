@@ -10,7 +10,9 @@ HealthyPi Move is an open hardware device that lets you track all your vital sig
 
 ![HealthyPi Move](/docs/images/healthypi-move-hand.jpg)
 
-HealthyPi Move firmware is available at it's own repository - [HealthyPi Move Firmware](https://github.com/Protocentral/healthypi-move-fw)
+The firmware for the HealthyPi Move is available at it's own repository - [HealthyPi Move Firmware](https://github.com/Protocentral/healthypi-move-fw)
+
+HealthyPi Move is now available for pre-order in the ongoing campaign on [Crowd Supply](https://www.crowdsupply.com/protocentral/healthypi-move)
 
 ## Repository Contents
 
